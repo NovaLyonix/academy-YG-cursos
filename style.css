@@ -1,0 +1,57 @@
+body {
+
+    background-color: rgb(255, 188, 124)
+
+}
+
+.caja {
+
+    border: 2px solid black;
+    margin: 10px 10px;
+    border-radius: 4px;
+
+    height: 10%;
+}
+
+.contenedor {
+
+    border-top: 1px solid black;
+    padding-left: 2%;
+    opacity: 0;
+    
+}
+
+.titulo{
+
+    padding-left: 2%;
+    font-style: italic;
+}
+
+.resumen{
+
+    opacity: 0;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    transition: opacity 0.3 ease;
+
+}
+
+.caja:hover{
+
+    height: auto;
+
+}
+
+.detalles{
+
+    opacity: 0;
+    transition: opacity 0.3 ease;
+}
+
+.caja:hover .detalles,
+.caja:hover .contenedor,
+.caja:hover .resumen{
+
+    opacity: 1;
+}
+
