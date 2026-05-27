@@ -33,6 +33,7 @@ body {
     font-size: 14px;
     font-family: 'Times New Roman', Times, serif;
     transition: opacity 0.3 ease;
+    font-size: 30;
 
 }
 
@@ -46,6 +47,8 @@ body {
 
     opacity: 0;
     transition: opacity 0.3 ease;
+    font-size: 30px;
+
 }
 
 .caja:hover .detalles,
@@ -53,5 +56,17 @@ body {
 .caja:hover .resumen{
 
     opacity: 1;
+}
+
+h1 {
+
+    font-size: 48px;
+
+}
+
+h3 {
+
+    font-size: 32px;
+
 }
 

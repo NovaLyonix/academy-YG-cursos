@@ -45,7 +45,6 @@ prueba.addEventListener("click", () =>{
     - Desarrollar la habilidad de liderazgo y comunicación con el caballo 
 
     ¡Así que no esperen más! ¡Inscríbanse ahora! ¡Será una experiencia inolvidable! (mira a Palomo) ¿Verdad, Palomo? (Palomo relincha)
-    
 
     ¡Y no se preocupen por mi... (pausa, suspira) ...mi estado emocional. Estoy perfectamente bien. 
     ¡Solo un poco... (se ríe nerviosamente) ...entusiasta! ¡Vamos a hacer que este curso sea inolvidable!
