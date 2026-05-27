@@ -46,7 +46,6 @@ prueba.addEventListener("click", () =>{
 
     ¡Así que no esperen más! ¡Inscríbanse ahora! ¡Será una experiencia inolvidable! (mira a Palomo) ¿Verdad, Palomo? (Palomo relincha)
     
-
     ¡Y no se preocupen por mi... (pausa, suspira) ...mi estado emocional. Estoy perfectamente bien. 
     ¡Solo un poco... (se ríe nerviosamente) ...entusiasta! ¡Vamos a hacer que este curso sea inolvidable!
     (Palomo, como asistente, asiente con la cabeza y relincha de nuevo, como si estuviera de acuerdo con su amo)
